@@ -10,7 +10,7 @@
 #################################################################################
 {
     'name': 'Remove Sale Order Advance Payment Options',
-    'version': '6.1.0',
+    'version': '7.1.0',
     'category': 'Sales',
     "author": 'Zero Systems',
     "company": 'Zero for Information Systems',
